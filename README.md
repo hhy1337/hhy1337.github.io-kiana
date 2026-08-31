@@ -24,4 +24,4 @@ This project is not affiliated with or endorsed by the official creators.
 
 ## 作者
 
-Created and maintained by [hhy1337](https://github.com/hhy1337)
+Created and maintained by [Ts1ngyun](https://github.com/Ts1ngyun)
